@@ -1,0 +1,8 @@
+const name = require('./1-name')
+// console.log(name)
+const sayHi = require('./2-utils')
+sayHi('Hi')
+sayHi(name.john)
+sayHi(name.peter)
+const data = require('./3-alternative')
+console.log(data)

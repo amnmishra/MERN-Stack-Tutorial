@@ -1,0 +1,17 @@
+Feactures of React 
+    Declarative
+    Component
+    SPA's
+Javascript XML : is a syntax extinsion to JavaScript
+
+WHy JSX : 
+    React Embraces the fact that rendering logic should be coupled with UI
+    Helpful as a visual aid when working with UI inside JavaScript
+    React separates concerns instead of separating technology
+    it also allows React to show more useful errors and warning messages
+
+What I learn this Section ?
+
+Basic syntax of JSX
+Embed JavaScript inside JSX
+To create static UIs in React Using JSX 
